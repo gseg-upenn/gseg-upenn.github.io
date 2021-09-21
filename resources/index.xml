@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resources on GSEG</title>
+    <link>http://gseg-upenn.github.io/resources/</link>
+    <description>Recent content in Resources on GSEG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://gseg-upenn.github.io/resources/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GSEG Executive Board</title>
+      <link>http://gseg-upenn.github.io/resources/gseg-executive-board/</link>
+      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://gseg-upenn.github.io/resources/gseg-executive-board/</guid>
+      <description>Aalok Thakkar (PhD CIS) (President)
+Anamil Mehta (MSE MEAM) (Vice President)
+Clary Rodriguez (PhD CBE) (Chair for Finance)
+Sourajit Das (PhD ESE) (Chair for Finance)
+Génesis Quiles-Galarza (PhD CBE) (Chair for Social Programming)
+Max Li (MSE ESE) (Chair for Social Programming)
+Pankti Parekh (MSE ESE) (Chair for Logistics)</description>
+    </item>
+    
+    <item>
+      <title>GSEG-Representatives to GAPSA</title>
+      <link>http://gseg-upenn.github.io/resources/gseg-representatives-to-gapsa/</link>
+      <pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://gseg-upenn.github.io/resources/gseg-representatives-to-gapsa/</guid>
+      <description>Bhavya Bhardwaj (MSE BE)
+Jal Panchal (MSE ROBO)
+Xinfan Su (Fiona) (MSE ESE)
+Zhaosen Guo (MSE DATS)
+Ivy Dai (PhD CBE)
+Ludwig Zhao (PhD BE)
+Steven Neuhaus (PhD MSE)</description>
+    </item>
+    
+  </channel>
+</rss>
