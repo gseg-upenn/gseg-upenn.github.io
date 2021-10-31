@@ -49,12 +49,21 @@
     
     <item>
       <title></title>
+      <link>http://gseg-upenn.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://gseg-upenn.github.io/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://gseg-upenn.github.io/home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://gseg-upenn.github.io/home/</guid>
       <description>Purpose Statement: The Graduate Students&#39; Engineering Government (GSEG) serves a four-fold purpose for graduate and professional students at the School of Engineering and Applied Sciences (SEAS):
- Representation: GSEG represents the engineering students at various platforms including, but not limited to, University Council, SEAS Graduate Advisory Council (GAC), and the Graduate and Professional Student Assembly (GAPSA) [link to GAPSA reps]. Advocacy: Through its many initiatives, GSEG strives to remove barriers that impede student&amp;rsquo;s abilities to make the best of their Penn experience.</description>
+ Representation: GSEG represents the engineering students at various platforms including, but not limited to, University Council, SEAS Graduate Advisory Council (GAC), and the [Graduate and Professional Student Assembly (GAPSA)] ( /resources/gseg-representatives-to-gapsa/). Advocacy: Through its many initiatives, GSEG strives to remove barriers that impede student&amp;rsquo;s abilities to make the best of their Penn experience.</description>
     </item>
     
   </channel>
